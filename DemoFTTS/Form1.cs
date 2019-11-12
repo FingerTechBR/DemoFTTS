@@ -22,10 +22,25 @@ namespace DemoFTTS
         {
            
             Connect ftts = new Connect();
-            int i = FTTSS.Connect.Enroll;
+            int i = FTTSS.Connect.methods.Capturar;
             FTTSS.Connect connect = new Connect();
-            txtbox_digital.Text = connect.getDigitalString(FTTSS.Connect.Capturar);
-                       
+          
+            try
+            {
+                txtbox_digital.Text = connect.getDigitalString(FTTSS.Connect.methods.Capturar);
+
+            }
+            catch(Exception d)
+            {
+                lb_status_text.Text = "Não foi possível capturar encontrar o leitor";
+                MessageBox.Show(d.ToString());
+            }
+
+            lb_status_text.Text = "Coletado com Sucesso" + connect.ambiente.ip;
+            lb_text_ip.Text = connect.ambiente.ip;
+
+
+
 
 
 
