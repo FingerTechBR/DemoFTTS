@@ -11,3 +11,17 @@ C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Debug\DemoFTTS.csproj.CoreCo
 C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Debug\DemoFTTS.csproj.CopyComplete
 C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Debug\DemoFTTS.exe
 C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Debug\DemoFTTS.pdb
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\bin\Debug\DemoFTTS.exe.config
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\bin\Debug\DemoFTTS.exe
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\bin\Debug\DemoFTTS.pdb
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\bin\Debug\FTTSS.dll
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\bin\Debug\FTTSS.pdb
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.csprojAssemblyReference.cache
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.Form1.resources
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.Properties.Resources.resources
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.csproj.GenerateResource.cache
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.csproj.CopyComplete
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.exe
+C:\Users\Lincoln\source\repos\DemoFTTS - Copia\DemoFTTS\obj\Debug\DemoFTTS.pdb
