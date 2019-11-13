@@ -1,0 +1,13 @@
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\bin\Release\DemoFTTS.exe.config
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\bin\Release\DemoFTTS.exe
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\bin\Release\DemoFTTS.pdb
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\bin\Release\FTTSS.dll
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\bin\Release\NITGEN.SDK.NBioBSP.dll
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\bin\Release\FTTSS.pdb
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.Form1.resources
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.Properties.Resources.resources
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.csproj.GenerateResource.cache
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.csproj.CopyComplete
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.exe
+C:\Users\Lincoln\source\repos\DemoFTTS\DemoFTTS\obj\Release\DemoFTTS.pdb
