@@ -23,6 +23,7 @@ namespace DemoFTTS
             try
             {
                 digital = connect.getDigitalString(FTTSS.Connect.methods.Capturar);
+                
                 txtbox_digital.Text = digital;
                 
             }
