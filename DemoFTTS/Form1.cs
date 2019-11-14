@@ -18,15 +18,15 @@ namespace DemoFTTS
             Connect ftts = new Connect();
             int i = FTTSS.Connect.methods.Capturar;
             FTTSS.Connect connect = new Connect();
-<<<<<<< HEAD
+
             String digital = null;
 
             try
             {
                 digital = connect.getDigitalString(FTTSS.Connect.methods.Capturar);
-                
+
                 txtbox_digital.Text = digital;
-                
+
             }
             catch (Exception d)
             {
@@ -42,10 +42,9 @@ namespace DemoFTTS
 
         }
 
-        private void Button2_Click(object sender, EventArgs e)
-        {
 
-            // Utils utils = new Utils();
+        private void Button2_Click_1(object sender, EventArgs e)
+        {
             Connect ftts = new Connect();
             int i = FTTSS.Connect.methods.Capturar;
             FTTSS.Connect connect = new Connect();
@@ -65,26 +64,6 @@ namespace DemoFTTS
             lb_text_ip.Text = connect.ambiente.ip;
             lb_text_solicitante.Text = connect.ambiente.user;
             picbox_img_digital.Visible = false;
-            
-=======
-          
-            try
-            {
-                txtbox_digital.Text = connect.getDigitalString(FTTSS.Connect.methods.Capturar);
-
-            }
-            catch(Exception d)
-            {
-                lb_status_text.Text = "Não foi possível capturar encontrar o leitor";
-                MessageBox.Show(d.ToString());
-            }
-
-            lb_status_text.Text = "Coletado com Sucesso" + connect.ambiente.ip;
-            lb_text_ip.Text = connect.ambiente.ip;
-
-
-
->>>>>>> ba662f0a7f944a02a2b1a0270a5fed59f2b97255
 
 
 
