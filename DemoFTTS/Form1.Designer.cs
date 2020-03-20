@@ -94,6 +94,7 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Status";
             // 
+<<<<<<< HEAD
             // lb_text_solicitante
             // 
             this.lb_text_solicitante.AutoSize = true;
@@ -112,6 +113,8 @@
             this.label2.Text = "Solicitante:1";
             this.label2.Click += new System.EventHandler(this.Label2_Click);
             // 
+=======
+>>>>>>> 2329194868871ce866148b1d1bd22b05ad3e3f6d
             // lb_text_ip
             // 
             this.lb_text_ip.AutoSize = true;
@@ -198,12 +201,36 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Imagem";
             // 
+<<<<<<< HEAD
+=======
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(28, 104);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(65, 13);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Solicitante:1";
+            // 
+            // lb_text_solicitante
+            // 
+            this.lb_text_solicitante.AutoSize = true;
+            this.lb_text_solicitante.Location = new System.Drawing.Point(94, 104);
+            this.lb_text_solicitante.Name = "lb_text_solicitante";
+            this.lb_text_solicitante.Size = new System.Drawing.Size(0, 13);
+            this.lb_text_solicitante.TabIndex = 5;
+            // 
+>>>>>>> 2329194868871ce866148b1d1bd22b05ad3e3f6d
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(1022, 412);
+=======
+            this.ClientSize = new System.Drawing.Size(800, 412);
+>>>>>>> 2329194868871ce866148b1d1bd22b05ad3e3f6d
             this.Controls.Add(this.panel2);
             this.Name = "Form1";
             this.Text = "Form1";

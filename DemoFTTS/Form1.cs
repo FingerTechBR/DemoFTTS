@@ -66,8 +66,11 @@ namespace DemoFTTS
             lb_text_ip.Text = connect.ambiente.ip;
             lb_text_solicitante.Text = connect.ambiente.user;
             picbox_img_digital.Visible = false;
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2329194868871ce866148b1d1bd22b05ad3e3f6d
 
 
         }
