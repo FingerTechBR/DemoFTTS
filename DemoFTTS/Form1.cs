@@ -23,6 +23,7 @@ namespace DemoFTTS
 
             try
             {
+                
                 digital = connect.getDigitalString(FTTSS.Connect.methods.Capturar);
 
                 txtbox_digital.Text = digital;
@@ -38,6 +39,7 @@ namespace DemoFTTS
             lb_text_ip.Text = connect.ambiente.ip;
             lb_text_solicitante.Text = connect.ambiente.user;
             picbox_img_digital.Visible = true;
+            txtbox_digital.Text = digital;
             picbox_img_digital.Image = new System.Drawing.Bitmap(utils.Conversor(utils.conertstringtoTEXTENCODE(digital)), new System.Drawing.Size(picbox_img_digital.Width, picbox_img_digital.Height));
 
         }
@@ -64,9 +66,17 @@ namespace DemoFTTS
             lb_text_ip.Text = connect.ambiente.ip;
             lb_text_solicitante.Text = connect.ambiente.user;
             picbox_img_digital.Visible = false;
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2329194868871ce866148b1d1bd22b05ad3e3f6d
 
+
+        }
+
+        private void Label2_Click(object sender, EventArgs e)
+        {
 
         }
     }
